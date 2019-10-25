@@ -1,6 +1,6 @@
-#Receta de macarrones con queso 
+# Receta de macarrones con queso 
 
-##Ingredientes
+## Ingredientes
 
 * 100 gramos de emmental
 * 100 gramos de queso cheddar
@@ -14,7 +14,7 @@
 * Pimienta
 * Sal
 
-##Preparación
+## Preparación
 
 1. Rallamos el queso cheddar y el emmental.
 2. Cortamos el bacon en taquitos.
