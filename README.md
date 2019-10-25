@@ -1,6 +1,6 @@
 # Creación de un repositorio:
-Para crear un repositorio en Github debemos ir a nuestro perfil de GitHub, clickamos al botón de **Repositorie>
-La otra manera de crear un repositorio, es mediante git, estándo en una carpeta, y escribimos en Git: git init>
+Para crear un repositorio en Github debemos ir a nuestro perfil de GitHub, clickamos al botón de **Repositories** y clickamos en el botón verde **New**.
+La otra manera de crear un repositorio, es mediante git, estándo en una carpeta, y escribimos en Git: git init , finalmente enlazamos esa carpeta a GitHub.
 
 
 # Recetas:
@@ -16,4 +16,3 @@ La otra manera de crear un repositorio, es mediante git, estándo en una carpeta
 2. Receta Jose: Macarrones con queso.
         1. Url: https://github.com/DanielFernandezR/recetas/blob/programador_JJimenez/macarrones_con_queso.md
         2. Ruta absoluta: C:/Users/Jose/Desktop/Recetas_proyecto/macarrones_con_queso.md
-
