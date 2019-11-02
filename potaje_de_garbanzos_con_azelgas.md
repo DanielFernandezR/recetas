@@ -15,7 +15,7 @@
 
 ## Preparación :
 
-1. Pon a remojo los garbanzos en un bol con abundante agua de forma que estén **totalmente cubiertos** y sobre bastante agua por encima de ellos, durante una noche entera (al menos 10-12 horas).
+1. Pon a remojo los garbanzos en bol con abundante agua de forma que estén **totalmente cubiertos** y sobre bastante agua por encima de ellos, durante una noche entera (al menos 10-12 horas).
 2. Al día siguiente escurre los garbanzos y en el propio escurridor **lávalos** un poco con un chorro de agua fría.
 3. Córtale a las acelgas el extremo de las **pencas** (los tallos), es decir, apenas el último cm, y divide las acelgas en dos partes, por un lado las pencas y por otro las hojas.
 4. Lávalas muy bien con **agua fría**, para ello lo mejor es que las dejes sumergidas en un recipiente con agua y las repases un poco con tus manos para que eliminen la tierra que puedan llevar.
